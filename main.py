@@ -12,3 +12,6 @@ print("View : ", yt.views)
 yd = yt.streams.get_audio_only()
 
 yd.download('/Users/limhalim/Documents/Musik')
+
+#* for Running Like this
+#* python3.10 main.py "link youtubenya"
